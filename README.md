@@ -1,3 +1,7 @@
+# ARCHIVED
+
+Use https://github.com/rkojedzinszky/go-novncauthproxy instead.
+
 # grnet/snf-vncauthproxy dockerized
 
 This is an image containing grnet/snf-vncauthproxy. It needs a users file, and for ssl operation it needs
